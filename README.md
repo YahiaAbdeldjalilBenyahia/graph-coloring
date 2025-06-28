@@ -1,3 +1,11 @@
+# Special thanks to
+Yacine Khellas
+Zineb Boukhetala
+Imene Allouche
+Samia Derroueche
+Assala Nour Elimane Rebhi
+Zineb Ghodbane
+Who together, made such a nice journey discovering this world.
 # graph-coloring
 Given an undirected connected graph, the task is to assign a valid coloring to the vertices of the graph.
 a valid coloring is that: no two adjacent vertices have the same color.
