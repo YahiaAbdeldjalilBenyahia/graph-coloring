@@ -5,7 +5,7 @@ Imene Allouche,
 Samia Derroueche,
 Assala Nour Elimane Rebhi,
 Zineb Ghodbane,
-who together, made such a nice journey discovering this world.
+who together, made such a nice journey discovering this world, and to Professors Amine Kechid, Malika Bessedik who helped us doing so.
 # graph-coloring
 Given an undirected connected graph, the task is to assign a valid coloring to the vertices of the graph.
 a valid coloring is that: no two adjacent vertices have the same color.
